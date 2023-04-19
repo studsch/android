@@ -45,8 +45,8 @@ adb install apk/app-release.apk
 ## AUTH
 Можно войти в аккаунт с введя следующие данные:
 
-`login: test@gmail.com`
+**login:** `test@gmail.com`
 
-`password: test123`
+**password:** `test123`
 
 Либо нажать на надписать `Register now`, чтобы создать новый аккаунт
