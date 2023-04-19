@@ -1,0 +1,35 @@
+name: weather
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.4 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+  intl: ^0.17.0
+  modal_bottom_sheet: ^3.0.0-pre
+  firebase_core: ^2.8.0
+  firebase_auth: ^4.3.0
+  flutter_map: ^3.0.0
+  # geocoder: ^0.2.1
+  # tuple: ^1.0.2
+  latlong2: ^0.8.1
+  # positioned_tap_detector_2: ^1.0.0
+  # transparent_image: ^1.0.0
+  # async: ^2.1.0
+  # flutter_image: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
