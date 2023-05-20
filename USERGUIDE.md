@@ -8,13 +8,19 @@
 ### Страницы приложения
 При первом запуске пользователя встречает страница регистрации.  
 Далее пользователь может зарегистрироваться, либо войти в уже существующий аккаунт.
-![signUp](screens/signUp)
-![singIn](screens/signIn)
+
+<img src="screens/signUp.png" width=30% alt="signUp"> <img src="screens/signIn.png" width=30% alt="signIn">
+
 После входа откроется страница с погодой. Снизу расположен прогноз погоды на сегодня (можно листать).
-![weather](screens/weather)
+
+<img src="screens/weather.png" width=30% alt="weather">
+
 Иконка карты (слева сверху) открывает карту, чтобы выйти из карты нужно нажать стрелочку (слева сверху).
-![map](screens/map)
+
+<img src="screens/map.png" width=30% alt="map">
+
 При нажатии на название города (по центру сверху), откроется строка поиска города, при вводе открывается страница с прогнозом погоды введеного города.
-![search](screens/search)
-![newcity](screens/newcity)
+
+<img src="screens/search.png" width=30% alt="map"> <img src="screens/newcity.png" width=30% alt="newcity">
+
 Иконка выхода (справа сверху) выполняет выход из аккаунта. После выхода открывается страница входа.
